@@ -1,5 +1,6 @@
 # Start OpenCore bootloader from GRUB
 
+
 Last working on:  
 Open core vesion: 0.6.6  
 Mac OS version: Big Sur (11.2.1)  
